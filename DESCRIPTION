@@ -1,0 +1,11 @@
+Package: spotifyaudioinfo
+Title: Find audio information from the spotify webapi
+Version: 0.0.0.9000
+Authors@R: "Roel M. Hogervorst <hogervorst.rm@gmail.com> [cre, aut]"
+Description: What the package does (one paragraph).
+Depends: R (>= 3.3.2)
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+Imports: httr,
+    jsonlite
